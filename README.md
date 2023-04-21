@@ -1,7 +1,7 @@
 # **Premier League Match Simulation**
 
  clone git repo by using following command:  
-`git clone https://github.com/softisoDev/price-parser.git`
+`git clone https://github.com/ismayil-dev/price-parser.git`
 
 ## **Short description**
 <p> -There are four teams in the league
